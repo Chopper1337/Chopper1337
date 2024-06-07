@@ -1,5 +1,8 @@
 ## alo team
 
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; object-fit: cover; background-size: cover; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Chopper1337/Chopper1337/main/bg.jpg');]{x0000}$}
+
 <!--
 **Chopper1337/Chopper1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
