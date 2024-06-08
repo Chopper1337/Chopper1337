@@ -1,5 +1,3 @@
-## alo team
-
 "*The following macros are not allowed: unicode*" - 🤓🤓🤓
 
 ```math
